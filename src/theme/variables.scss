@@ -1,0 +1,55 @@
+// For information on how to create your own theme, please see:
+// http://ionicframework.com/docs/theming/
+:root {
+	--ion-color-orang: #ff0000;
+	--ion-color-orang-rgb: 255,0,0;
+	--ion-color-orang-contrast: #000000;
+	--ion-color-orang-contrast-rgb: 0,0,0;
+	--ion-color-orang-shade: #e00000;
+	--ion-color-orang-tint: #ff1a1a;
+}
+
+.ion-color-orang {
+	--ion-color-base: var(--ion-color-orang);
+	--ion-color-base-rgb: var(--ion-color-orang-rgb);
+	--ion-color-contrast: var(--ion-color-orang-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-orang-contrast-rgb);
+	--ion-color-shade: var(--ion-color-orang-shade);
+	--ion-color-tint: var(--ion-color-orang-tint);
+}
+
+:root {
+	--ion-color-purple: #c104e7;
+	--ion-color-purple-rgb: 193,4,231;
+	--ion-color-purple-contrast: #ffffff;
+	--ion-color-purple-contrast-rgb: 255,255,255;
+	--ion-color-purple-shade: #aa04cb;
+	--ion-color-purple-tint: #c71de9;
+}
+
+.ion-color-purple {
+	--ion-color-base: var(--ion-color-purple);
+	--ion-color-base-rgb: var(--ion-color-purple-rgb);
+	--ion-color-contrast: var(--ion-color-purple-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-purple-contrast-rgb);
+	--ion-color-shade: var(--ion-color-purple-shade);
+	--ion-color-tint: var(--ion-color-purple-tint);
+}
+
+:root {
+	--ion-color-green: #69bb7b;
+	--ion-color-green-rgb: 105,187,123;
+	--ion-color-green-contrast: #000000;
+	--ion-color-green-contrast-rgb: 0,0,0;
+	--ion-color-green-shade: #5ca56c;
+	--ion-color-green-tint: #78c288;
+}
+
+.ion-color-green {
+	--ion-color-base: var(--ion-color-green);
+	--ion-color-base-rgb: var(--ion-color-green-rgb);
+	--ion-color-contrast: var(--ion-color-green-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-green-contrast-rgb);
+	--ion-color-shade: var(--ion-color-green-shade);
+	--ion-color-tint: var(--ion-color-green-tint);
+}
